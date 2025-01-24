@@ -29,10 +29,6 @@ interface Certificate {
 }
 
 export default function CarouselDemo() {
-    const [current, setCurrent] = React.useState(0)
-    const [count, setCount] = React.useState(0)
-
-
 
     const Certificates: Certificate[] = [
         {
