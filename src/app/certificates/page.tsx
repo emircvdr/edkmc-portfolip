@@ -19,7 +19,7 @@ import Certificate7 from "../../../public/7.png"
 import Certificate8 from "../../../public/8.png"
 
 
-import Image from "next/image"
+
 import { StaticImageData } from "next/image"
 
 interface Certificate {
