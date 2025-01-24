@@ -9,14 +9,15 @@ import {
     CarouselNext,
     CarouselPrevious,
 } from "@/components/ui/carousel"
-import Certificate1 from "../../../public/certificates/1.jpg"
-import Certificate2 from "../../../public/certificates/2.jpg"
-import Certificate3 from "../../../public/certificates/3.jpg"
-import Certificate4 from "../../../public/certificates/4.jpg"
-import Certificate5 from "../../../public/certificates/5.jpg"
-import Certificate6 from "../../../public/certificates/6.jpeg"
-import Certificate7 from "../../../public/certificates/7.jpeg"
-import Certificate8 from "../../../public/certificates/8.jpeg"
+import Certificate1 from "../../../public/1.jpg"
+import Certificate2 from "../../../public/2.jpg"
+import Certificate3 from "../../../public/3.jpg"
+import Certificate4 from "../../../public/4.jpg"
+import Certificate5 from "../../../public/5.jpg"
+import Certificate6 from "../../../public/6.jpeg"
+import Certificate7 from "../../../public/7.jpeg"
+import Certificate8 from "../../../public/8.jpeg"
+
 
 import Image from "next/image"
 import { StaticImageData } from "next/image"
