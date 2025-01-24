@@ -50,7 +50,7 @@ export default function Page() {
         </div>
         <div>
           <div className="flex flex-row items-center gap-4 h-fit">
-            <Image src="/arma_logo.jpeg" alt="Arma logo" width={55} height={55} />
+            <Image src="/arma_logo.png" alt="Arma logo" width={55} height={55} />
             <div className="w-full h-full flex flex-col gap-0">
               <p className="">ARMA SIHA</p>
               <p className="text-[14px] font-bold">Team Captain</p>
