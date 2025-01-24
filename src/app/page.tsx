@@ -40,7 +40,7 @@ export default function Page() {
       <div className="flex flex-col gap-5">
         <div>
           <div className="flex flex-row items-center gap-4">
-            <Image src="/turkcell_logo.jpeg" alt="Turkcell logo" width={55} height={55} />
+            <img src="/turkcell_logo.jpeg" alt="Turkcell logo" width={55} height={55} />
             <div className="w-full h-full flex flex-col gap-0">
               <p className="">Turkcell</p>
               <p className="text-[12px] font-extrabold">2022 - 2024 </p>
@@ -50,7 +50,7 @@ export default function Page() {
         </div>
         <div>
           <div className="flex flex-row items-center gap-4 h-fit">
-            <Image src="/arma_logo.png" alt="Arma logo" width={55} height={55} />
+            <img src="/arma_logo.png" alt="Arma logo" width={55} height={55} />
             <div className="w-full h-full flex flex-col gap-0">
               <p className="">ARMA SIHA</p>
               <p className="text-[14px] font-bold">Team Captain</p>
@@ -61,7 +61,7 @@ export default function Page() {
         </div>
         <div>
           <div className="flex flex-row items-center gap-4 h-fit">
-            <Image src="/mku_logo.png" alt="Arma logo" width={55} height={55} className="bg-black p-2" />
+            <img src="/mku_logo.png" alt="Arma logo" width={55} height={55} className="bg-black p-2" />
             <div className="w-full h-full flex flex-col gap-0">
               <p className="">MKU Tech</p>
               <p className="text-[14px] font-bold">Project Developer</p>

@@ -66,13 +66,12 @@ export default function CarouselDemo() {
                         <CarouselItem key={index} className="flex-shrink-0 w-96">
                             <Card className="shadow-lg">
                                 <CardContent className="p-4">
-                                    <Image
-                                        src={certificate.img!}
+                                    <img
+                                        src={certificate?.img?.src}
                                         alt="Certificate"
                                         className="rounded-lg"
-                                        layout="responsive"
-                                        width={400}
-                                        height={300}
+                                        width={700}
+                                        height={400}
                                     />
                                 </CardContent>
                             </Card>
